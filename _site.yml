@@ -7,3 +7,9 @@ navbar:
     - text : "about"
       href : about.html
       
+output:
+  html_document:
+   theme : cosmo
+
+output_dir: "."
+      
