@@ -2,16 +2,15 @@ name: Mariem Bouhadda
 output_dir: '.'
 navbar:
   title: Mariem Bouhadda
-  href: https://maryem-bouhadda.github.io
   type: inverse
   left:
   - text: Home
     icon: fa-home
-    href: index.html
-  - text: Machine Learning  
+    href: https://maryem-bouhadda.github.io/Maryem_Bouhadda.github.io/
+  - text:  
     menu:
       - text: Projects
-        href: Projects/index.html
+        href: index.html
       - text: Blog 
   - text: NGS Data Analysis  
     menu:
