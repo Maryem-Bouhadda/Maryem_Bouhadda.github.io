@@ -2,6 +2,7 @@ name: Mariem Bouhadda
 output_dir: '.'
 navbar:
   title: Mariem Bouhadda
+  href: https://maryem-bouhadda.github.io/index.html
   type: inverse
   left:
   - text: Home
