@@ -2,5 +2,5 @@
 title: Projects
 ---
 
-      
+  
   This section is dedicated to my Machine learning projects in bioinformatics.
