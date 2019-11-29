@@ -1,15 +1,42 @@
-name: "my-website"
+name: Mariem Bouhadda
+output_dir: '.'
 navbar:
-  title: "website"
+  title: Mariem Bouhadda
+  type: inverse
   left:
-    - text : "home"
-      href : index.html
-    - text : "about"
-      href : about.html
-      
+  - text: Home
+    icon: fa-home
+    href: index.html
+  - text: Machine Learning  
+    menu:
+      - text: Projects
+      - text: Blog 
+  - text: NGS Data Analysis  
+    menu:
+      - text: Projects
+      - text: Blog 
+  - text: Biology  
+    menu:
+      - text: Genomics and genetics
+      - text: Cancer Biology 
+#  - text: Stock market volatility  
+#    href: arch.html
+#  - text: Maps  
+ #   href: map.html 
+  #- text: My CV
+   # href: mariemcv.html
+#  right:
+ # - icon: fa-envelope fa-lg
+  #  href: contact.html
+#  - icon: fa-github fa-lg
+ #   href: https://github.com/Mariem-Bouhadda
+  #- icon: fa-linkedin fa-lg
+   # href: https://www.linkedin.com/in/mariem-bouhadda/
+ 
 output:
   html_document:
-   theme : cosmo
-
-output_dir: "."
-      
+    theme: yeti
+    highlight: textmate
+    css: styles.css
+    lib_dir: site_libs
+    self_contained: no

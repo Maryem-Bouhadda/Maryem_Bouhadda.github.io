@@ -1,24 +1,20 @@
 ---
-title: "My Homepage"
-output: html_document
----
-
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+  ---
+  
+  <link rel="stylesheet" href="styles.css" type="text/css">
+    
+  <img src="turban (copy).JPG" style="width:15%; border:1px solid; margin-right: 20px" align="left">
+      
+  I am Mariem Bouhadda, a Statistics and Data Analysis Engineer from Tunisia.
+ I am working on building a career in cancer research and contributing to fighting against it.
+  This section is dedicated to my blog and projects throught which i am sharpening my skills in : 
+  - Bioinformatics : 
+  - Statistics 
+  - Programming
+  - Biology 
+  - Genomics and genetics 
+  - Database Management 
+  - Data Mining and Machine Learning 
+  
+  Please have a look at my work and feel free to contact me for further details at maryem.bouhadda@gmail.com .
+    
