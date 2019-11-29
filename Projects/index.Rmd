@@ -3,4 +3,4 @@ title: Projects
 ---
 
       
-  I am Mariem Bouhadda
+  This section is dedicated to my Machine learning projects in bioinformatics.
