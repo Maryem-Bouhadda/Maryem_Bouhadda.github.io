@@ -1,7 +1,10 @@
 ---
 title: Mariem Bouhadda
 ---
-  
+  <!-- favicons
+	================================================== -->
+	<link rel="shortcut icon" href="logo.png" type="image/x-icon">
+	<link rel="icon" href="logo.png" type="image/x-icon"> 
   <link rel="stylesheet" href="styles.css" type="text/css">
     
   <img src="turban (copy).JPG" style="width:15%; border:1px solid; margin-right: 20px" align="left">
