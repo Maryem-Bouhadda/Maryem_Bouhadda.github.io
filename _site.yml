@@ -11,7 +11,7 @@ navbar:
   - text: Machine Learning  
     menu:
       - text: Projects
-        - href: ./Projects/Projects.html
+        href: ./Projects/Projects.html
       - text: Blog 
   - text: NGS Data Analysis  
     menu:
