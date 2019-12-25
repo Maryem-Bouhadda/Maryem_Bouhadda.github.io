@@ -26,7 +26,7 @@ navbar:
  
 output:
   html_document:
-    theme: yeti
+    #theme: yeti
     highlight: textmate
     css: styles.css
     lib_dir: site_libs
