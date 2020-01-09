@@ -1,31 +1,33 @@
 ---
-title: "Binary cancer Application"
+title: <br/> <br/> Breast cancer binary classification
 output: html_document
 ---
-
+<br/>
+<br/>
 <style> 
   #header { 
-    color: DodgerBlue;
+    color: dodgerblue;
     text-align: center;
   }
 
   h3 {
-    color: DodgerBlue;
+    color: steelblue;
     Font-Weight: Bold;
   }
 </style>
 
 ### Description
 
-- Automated various data analysis techniques for a taxi reservation
-company.
-- Developed a Shiny application to encompass those techniques and
-provide key insights.
+- Univariate and bivariate analysis of the public Wisconsin Breast Cancer dataset.
+
+- Machine leaning models (Decision tree, Neural Networks) applied on the data to predict the breast cancer type ( Benign or Malignant ).
+
+( Note : This is the first version of the application, more analysis will be added. )
 
 ### Tools used 
-R / Shiny / Plotly / SQL / Excel.
+R / Shiny / Plotly /
 
-### Code Source
+### Source code
 ...
 
 ### Application 
