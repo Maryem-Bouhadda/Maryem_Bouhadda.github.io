@@ -23,12 +23,15 @@ output: html_document
 - Machine leaning models (Decision tree, Neural Networks) applied on the data to predict the breast cancer type ( Benign or Malignant ).
 
 ( Note : This is the first version of the application, more analysis will be added. )
+<br/>
 
 ### Tools used 
 R / Shiny / Plotly /
+<br/>
 
 ### Source code
 ...
+<br/>
 
 ### Application 
 <br/>
