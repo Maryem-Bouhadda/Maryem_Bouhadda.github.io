@@ -3,4 +3,4 @@ title: <br/> Projects
 ---
 
   
-  This section is dedicated to my Machine learning projects in bioinformatics.
+### This section is dedicated to my Machine learning projects in bioinformatics.
