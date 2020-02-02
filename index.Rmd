@@ -11,14 +11,14 @@
       
 I am Mariem Bouhadda, a Statistics and Data Analysis Engineer from Tunisia.
 <!---I am working on building a career in cancer research and contributing to fighting against it. -->
-  This section is dedicated to my blog and projects throught which i am sharpening my skills in bioinformatics.
+  This section is dedicated to my blog and projects throught which i am sharpening my skills in data science. 
 <!--- #  - Bioinformatics : 
 # - Statistics 
 #  - Programming
 #  - Biology 
 #  - Genomics and genetics 
 #  - Database Management 
-#  - Data Mining and Machine Learning --> 
+#  - Data Mining and Machine Learning 
   
-  Have a look at my work and feel free to contact me for further details at maryem.bouhadda@gmail.com .
-    
+#Have a look at my work and feel free to contact me for further #details at maryem.bouhadda@gmail.com .
+    --> 

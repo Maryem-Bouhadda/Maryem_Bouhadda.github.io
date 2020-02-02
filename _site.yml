@@ -13,14 +13,14 @@ navbar:
       - text: Projects
         href: Projects/index.html
       - text: Blog 
-  - text: NGS Data Analysis  
+  - text: Big Data  
     menu:
       - text: Projects
       - text: Blog 
-  - text: Biology  
-    menu:
-      - text: Genomics and genetics
-      - text: Cancer Biology 
+#  - text: Biology  
+#    menu:
+#      - text: Genomics and genetics
+#      - text: Cancer Biology 
 #  - text: Stock market volatility  
 #    href: arch.html
 #  - text: Maps  
