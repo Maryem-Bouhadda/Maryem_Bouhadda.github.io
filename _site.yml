@@ -18,7 +18,7 @@ navbar:
 #      - text: Projects
 #      - text: Blog 
   - text: CV 
-  - href: cv.html
+    href: cv.html
   
 #    menu:
 #      - text: Genomics and genetics
