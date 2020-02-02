@@ -13,12 +13,13 @@ navbar:
       - text: Projects
         href: Projects/index.html
       - text: Blog 
+  - text: CV 
+    href: cv.html
 #  - text: Big Data  
 #    menu:
 #      - text: Projects
 #      - text: Blog 
-  - text: CV 
-    href: cv.html
+  
   
 #    menu:
 #      - text: Genomics and genetics
