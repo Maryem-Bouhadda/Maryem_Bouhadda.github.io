@@ -17,7 +17,7 @@ navbar:
     menu:
       - text: Projects
       - text: Blog 
-#  - text: Biology  
+  - text: CV  
 #    menu:
 #      - text: Genomics and genetics
 #      - text: Cancer Biology 
