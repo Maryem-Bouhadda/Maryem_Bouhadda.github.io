@@ -1,5 +1,5 @@
 ---
-title: <br/> Curriculum Vitae (2020)
+title: <br/> Curriculum Vitae
 output: html_document
 ---
 <br/>
