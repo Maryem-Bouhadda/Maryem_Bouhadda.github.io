@@ -7,7 +7,7 @@ navbar:
   left:
   - text: Home
     icon: fa-home
-    href: https://maryem-bouhadda.github.io
+    href: https://maryem-bouhadda.github.io/Maryem_Bouhadda.github.io/
   - text: Machine Learning  
     menu:
       - text: Projects
