@@ -35,4 +35,4 @@ R / Shiny / Plotly /
 
 ### Application 
 <br/>
-<iframe src="https://mariembouhadda.shinyapps.io/breastt_cancer_app/" height="670" width="150%" frameBorder="0"></iframe>
+<iframe src="https://mariembouhadda.shinyapps.io/breastt_cancer_app/" height="670" width="200%" frameBorder="0"></iframe>
