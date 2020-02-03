@@ -6,7 +6,7 @@ navbar:
   left:
   - text: Home
     icon: fa-home
-    href: https://maryem-bouhadda.github.io/Maryem_Bouhadda.github.io/
+    href: https://maryem-bouhadda.github.io/
   - text: RShiny app for binary cancer classification
     href: binarycancer.html
   - text: Breast cancer image classification using Deep Learning ( Python app )
